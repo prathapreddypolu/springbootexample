@@ -14,6 +14,7 @@ import lombok.Data;
 @Table(name="STUDENT_INFO")
 @Data
 @AllArgsConstructor
+
 @Builder
 public class Student 
 {
